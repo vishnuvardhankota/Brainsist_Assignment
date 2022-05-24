@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237938159845",
+    "project_id": "brainsist",
+    "storage_bucket": "brainsist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237938159845:android:063ca3c12bd83522c1e40c",
+        "android_client_info": {
+          "package_name": "com.example.brainsist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237938159845-204iogqen1ps32scgrmuo1hj84ev9q0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brainsist",
+            "certificate_hash": "1eb7f9a718a4ad48c275fc2bed74ae766143e36b"
+          }
+        },
+        {
+          "client_id": "237938159845-3f2tclb6nm9n2fdv1c0la9gn4ou8ojte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4LZY5_NsAeypuDB0frvYqOsuPxxwyOFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237938159845-3f2tclb6nm9n2fdv1c0la9gn4ou8ojte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
